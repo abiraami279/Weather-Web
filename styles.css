@@ -7,7 +7,8 @@
     gap: 20px;
     width: 350px;
     margin: 50px auto;
-    background-color: rgb(152, 204, 238);  
+    background:linear-gradient(rgb(172, 244, 255),rgb(172, 195, 208));
+      
 }
 
 .result{
@@ -17,7 +18,7 @@
     align-items: center;
     width: 250px;
     height: 150px;
-    background:linear-gradient(rgb(172, 244, 255),rgb(172, 195, 208));
+    background-color: rgb(167, 242, 215);
     border:2px solid black ;
 
 }
