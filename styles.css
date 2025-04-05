@@ -7,7 +7,7 @@
     gap: 20px;
     width: 350px;
     margin: 50px auto;
-    background:linear-gradient(rgb(172, 244, 255),rgb(172, 195, 208));
+   background:linear-gradient(rgb(2, 211, 187),rgb(172, 195, 208));
       
 }
 
@@ -18,7 +18,7 @@
     align-items: center;
     width: 250px;
     height: 150px;
-    background-color: rgb(215, 252, 239);
+     background-color: rgb(120, 193, 183); 
     border:2px solid black ;
 
 }
